@@ -1,60 +1,96 @@
-# <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,50:1E293B,100:0EA5E9&text=Tran%20Nguyen%20Quoc%20Quy&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Web%20Developer%20%7C%20React%20•%20Next.js%20•%20Node.js%20•%20TypeScript&descAlignY=58&animation=fadeIn"/>
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Real-Time+Systems+with+Socket.IO;Performance-Driven+Frontend+Development;AI-Integrated+User+Experiences" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,50:0F172A,100:0EA5E9&text=TRAN%20NGUYEN%20QUOC%20QUY&fontColor=F8FAFC&fontSize=42&fontAlignY=42&desc=Web%20Developer%20Intern%20|%20Software%20Engineering%20Student&descAlignY=65&animation=fadeIn"/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge\&logo=vercel\&logoColor=white)](https://trannguyenquocquy.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/quocquy/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/quoc-quy)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Web+Development+with+React+%26+TypeScript;Building+Modern+Full-Stack+Web+Applications;Real-Time+Systems+with+Socket.IO+%26+LiveKit;Open+to+Web+Developer+Internship+Opportunities"/>
+
+<br/><br/>
+
+<a href="https://trannguyenquocquy.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/quocquy/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:quocquytnqq@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=quoc-quy&label=Profile+Views&color=38BDF8&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👋 About Me
+# 👨‍💻 About Me
 
-```ts
-const developer = {
-  name: "Tran Nguyen Quoc Quy",
-  role: "Web Developer",
-  education: "Software Engineering @ IUH",
-  graduation: "Dec 2026",
-  
-  frontend: [
-    "React",
-    "Next.js",
-    "TypeScript",
-    "Tailwind CSS"
-  ],
+```yaml
+Name: Tran Nguyen Quoc Quy
 
-  backend: [
-    "Node.js",
-    "Express.js",
-    "MongoDB",
-    "PostgreSQL"
-  ],
+Education:
+  - Final-year Software Engineering Student
+  - Industrial University of Ho Chi Minh City (IUH)
 
-  interests: [
-    "Real-time Systems",
-    "Performance Optimization",
-    "AI Integration",
-    "Product Engineering"
-  ]
-}
-```
+Interests:
+  - Frontend Development
+  - Full-Stack Development
+  - Real-Time Systems
+  - Cloud Deployment
+  - AI Integration
 
-I enjoy building scalable web applications with a strong focus on performance, user experience, and maintainable architecture. My recent work includes real-time communication platforms, AI-powered applications, and full-stack booking systems.
+Current Goal:
+  - Web Developer Internship
+````
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ Quick Overview
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,git,github,figma,vscode&perline=8"/>
+| 🎓 Education               | 💼 Role                         | 🌏 Location      |
+| -------------------------- | ------------------------------- | ---------------- |
+| Software Engineering @ IUH | Frontend / Full-Stack Developer | Ho Chi Minh City |
+
+</div>
+
+<br>
+
+<div align="center">
+
+| 🚀 Projects           | 👨‍💼 Team Lead | 💻 Main Stack                |
+| --------------------- | --------------- | ---------------------------- |
+| 2 Production Projects | 2 Projects      | React • TypeScript • Node.js |
+
+</div>
+
+---
+
+# ⚒️ Technology Arsenal
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,git,github,postman,figma,vscode&perline=8"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+| Frontend     | Backend    | Database   | Cloud & DevOps |
+| ------------ | ---------- | ---------- | -------------- |
+| React        | Node.js    | MongoDB    | GitHub Actions |
+| Next.js      | Express.js | PostgreSQL | AWS S3         |
+| TypeScript   | REST APIs  | Mongoose   | Vercel         |
+| Tailwind CSS | Socket.IO  | Prisma     | Railway        |
 
 </div>
 
@@ -66,44 +102,34 @@ I enjoy building scalable web applications with a strong focus on performance, u
 
 ### Real-Time Messaging & Video Calling Platform
 
-Built a full-stack communication platform featuring messaging, video conferencing, file sharing, and AI-powered assistance.
+**Role:** Team Lead
 
-#### Highlights
+### Highlights
 
-* Real-time messaging using Socket.IO
-* One-to-one and group video calls with LiveKit
-* Amazon S3 file storage integration
-* AI-powered RAG assistant for Vietnamese traffic regulations
-* Role-based group management
+* ⚡ Real-time private and group chat with Socket.IO
+* 🎥 One-to-one & group video calls using LiveKit
+* ☁️ AWS S3 file uploads up to 10MB
+* 🔐 Role-Based Access Control (RBAC)
+* 🤖 RAG-based Traffic Law Assistant
+* 🎯 Achieved 92% retrieval accuracy across 37 documents
 
-#### Performance
-
-| Metric                   | Result |
-| ------------------------ | ------ |
-| GTmetrix Grade           | A      |
-| Performance Score        | 94%    |
-| Largest Contentful Paint | 1.5s   |
-| Total Blocking Time      | 0ms    |
-| CLS                      | 0      |
-
-#### Technologies
+### Tech Stack
 
 `React` `TypeScript` `Tailwind CSS`
 `Node.js` `Express.js`
 `MongoDB`
 `Socket.IO`
 `LiveKit`
-`AWS S3`
 
-<p>
+<br>
+
 <a href="https://github.com/quoc-quy/ChatPulse">
-<img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://chatpulse-frontend.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-0EA5E9?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Live_Demo-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-</p>
 
 ---
 
@@ -111,34 +137,53 @@ Built a full-stack communication platform featuring messaging, video conferencin
 
 ### Full-Stack Travel Booking System
 
-A travel booking platform supporting tour discovery, reservation workflows, payments, and deployment automation.
+**Role:** Team Lead
 
-#### Highlights
+### Highlights
 
-* Tour search and booking system
-* Secure payment workflow
-* Tour cancellation management
-* CI/CD automation with GitHub Actions
-* Responsive user experience
+* 🔍 Tour search with filtering and pagination
+* 📅 Booking and reservation management
+* 💳 VietQR payment integration via SePay
+* ⏰ Automatic reservation expiration
+* 🚀 CI/CD deployment using GitHub Actions
+* 🌐 Production deployment on Vercel & Railway
 
-#### Technologies
+### Tech Stack
 
 `React`
 `TypeScript`
 `Tailwind CSS`
-`Java`
+`Spring Boot`
 `PostgreSQL`
-`GitHub Actions`
+`REST API`
 
-<p>
+<br>
+
 <a href="https://github.com/quoc-quy/TripBee">
-<img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://tripbeefrontend.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-0EA5E9?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Live_Demo-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-</p>
+
+---
+
+# 🏆 Project Metrics
+
+<div align="center">
+
+| Metric                           | Value     |
+| -------------------------------- | --------- |
+| 🚀 Full-Stack Projects           | 2         |
+| 👨‍💼 Team Lead Projects         | 2         |
+| 💬 Real-Time Chat System         | Completed |
+| 🎥 Concurrent Video Users Tested | 7         |
+| 🤖 RAG Accuracy                  | 92%       |
+| 📄 Documents Processed           | 37        |
+| ☁️ Deployment Platforms          | 4+        |
+
+</div>
 
 ---
 
@@ -146,9 +191,17 @@ A travel booking platform supporting tour discovery, reservation workflows, paym
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=quoc-quy&show_icons=true&theme=transparent&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=quoc-quy&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoc-quy&layout=compact&theme=transparent&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoc-quy&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=quoc-quy&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -156,10 +209,30 @@ A travel booking platform supporting tour discovery, reservation workflows, paym
 
 # 🎯 Current Focus
 
-* Building production-ready React & Next.js applications
-* Exploring scalable system architecture
-* Improving frontend performance and accessibility
-* Learning advanced backend and cloud technologies
+```yaml
+Frontend:
+  - React
+  - TypeScript
+  - Next.js
+
+Backend:
+  - Node.js
+  - Express.js
+  - REST APIs
+
+Cloud:
+  - AWS S3
+  - CI/CD
+  - Deployment Pipelines
+
+Learning:
+  - System Design
+  - AWS
+  - Scalable Architecture
+
+Goal:
+  - Web Developer Internship
+```
 
 ---
 
@@ -168,10 +241,10 @@ A travel booking platform supporting tour discovery, reservation workflows, paym
 <div align="center">
 
 <a href="mailto:quocquytnqq@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/quocquy/">
+<a href="https://www.linkedin.com/in/quocquy/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -179,6 +252,15 @@ A travel booking platform supporting tour discovery, reservation workflows, paym
 <img src="https://img.shields.io/badge/Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
+<br><br>
+
+📍 Ho Chi Minh City, Vietnam
+
+💼 Open to Web Developer Internship Opportunities
+
+🚀 Let's Build Something Amazing Together
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:1E293B,100:0EA5E9"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0EA5E9,50:0F172A,100:020617&section=footer"/>
+```
